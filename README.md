@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Cortex Cloud Community page! This platform is dedicated to fostering collaboration, sharing knowledge, and providing support for all users and enthusiasts of Cortex Cloud. Whether you're a developer, an administrator, a data scientist, or just curious about the capabilities of Cortex Cloud, we hope you find this page useful. 
+Welcome to the Cortex Cloud Community page! This platform is dedicated to fostering collaboration, sharing knowledge, and providing support for all users and enthusiasts of Cortex Cloud. Whether you're a developer, an administrator, a security engineer, or just curious about the capabilities of Cortex Cloud, we hope you find this page useful. 
 
 Do take note that this is an UNOFFICIAL Cortex Cloud resource page, if you need official support or assistance, please take it up with your Palo Alto Networks sales representative.
 
